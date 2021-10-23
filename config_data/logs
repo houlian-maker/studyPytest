@@ -1,0 +1,9 @@
+2021-10-13 15:30:25,148-root-INFO-hello
+2021-10-13 15:30:25,802-root-INFO-hello
+2021-10-13 15:30:26,335-root-INFO-hello
+2021-10-13 15:43:52,994-root-INFO-请求参数：{'ID': 1, 'model': '会员查询', 'case_name': '查询已注册的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"13798765432","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 0}
+2021-10-13 15:43:53,644-root-INFO-请求参数：{'ID': 2, 'model': '会员查询', 'case_name': '查询未注册的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"13110161203","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 101}
+2021-10-13 15:43:54,165-root-INFO-请求参数：{'ID': 3, 'model': '会员查询', 'case_name': '条件为非数字查询的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"dhsjhjhdjs","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 101}
+2021-10-13 15:48:07,502-root-INFO-请求参数：{'ID': 1, 'model': '会员查询', 'case_name': '查询已注册的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"13798765432","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 0}
+2021-10-13 15:48:08,118-root-INFO-请求参数：{'ID': 2, 'model': '会员查询', 'case_name': '查询未注册的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"13110161203","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 101}
+2021-10-13 15:48:08,609-root-INFO-请求参数：{'ID': 3, 'model': '会员查询', 'case_name': '条件为非数字查询的会员信息', 'api_name': '会员', 'api_url': 'memberInfo', 'accpt_name': '{"wxOpenID":"","mobileTel":"dhsjhjhdjs","unionid":"","cardCode":"","brandId":"44"}', 'accpt_code': 101}
